@@ -16,22 +16,22 @@
     transform: translateY(-50%); }
 
 .footer {
-  background-color: #292c2f;
+  background-color: #FFB266;
   text-align: center;
   font-size: 1.2rem;
   padding: 9rem; }
   .footer p.slogan {
-    color: #8d9093;
+    color: #000000;
     font-size: 1.8rem;
     margin: 0 0 1rem; }
   .footer p.copywrite {
-    color: #8f9296;
+    color: #808080;
     font-size: 0.875rem;
     margin: 0; }
   .footer .links a {
     list-style: none;
     font-weight: bold;
-    color: #ffffff;
+    color: #000066;
     padding: 3rem 0 2rem;
     margin: 0; }
     .footer .links a::after {
