@@ -1,0 +1,29 @@
+container {
+  position:static;
+  align-content: center;
+  height: 500px; }
+
+caption {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 70%;}
+
+caption p {
+  position: relative;
+  top: 70%;
+  -webkit-transform: translateY(-25%);
+  -ms-transform: translateY(-25%);
+  transform: translateY(-25%);
+  text-align: center;
+  color: #FFFFFF;
+  font-size: 48px;
+  font-weight: 900; }
+
+@media screen and (max-width: 39.9375em) {
+  caption p {
+    font-size: 12px;
+    font-weight: 400; } }
+bullets {
+  display: none; }

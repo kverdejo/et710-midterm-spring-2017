@@ -1,0 +1,6 @@
+.cite {
+  border-left: 5px solid #ffdb3a;
+  padding: 10px 0 10px 30px;
+  margin: 0 0 1rem -10px; }
+  .cite p {
+    font-style: italic; }
